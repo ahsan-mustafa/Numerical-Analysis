@@ -3,8 +3,6 @@
 This repository contains MATLAB implementations of classical **Numerical Analysis** algorithms used for solving equations, interpolation, numerical differentiation, numerical integration, and ordinary differential equations (ODEs).  
 Each method is implemented as a clear and easy-to-understand MATLAB script or function.
 
-Perfect for students, instructors, or anyone revising numerical methods.
-
 ---
 
 ## 📌 Contents
